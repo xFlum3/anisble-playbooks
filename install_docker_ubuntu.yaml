@@ -1,6 +1,6 @@
 ---
 - name: Install docker
-  hosts: localhost:test
+  hosts: dk_hosts
   become: true
 
   tasks:
