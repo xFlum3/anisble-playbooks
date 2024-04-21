@@ -1,6 +1,6 @@
 ---
 - name: Install docker
-  hosts: dk_hosts
+  hosts: all
   become: true
 
   tasks:
